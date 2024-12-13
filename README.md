@@ -1,4 +1,4 @@
-# Sales and Financial Analytics for AtliQ Hardware
+# Sales and Financial Analytics using Excel
 
 ## Objective
 Analyze the sales and financial performance of AtliQ Hardware, a computer peripherals manufacturer selling products through brick-and-mortar stores, e-commerce platforms, and its own store, across various countries. The goal was to generate insightful reports like customer performance, market vs. target, and profit & loss (P&L) statements for the years 2019, 2020, and 2021.
